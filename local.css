@@ -93,6 +93,15 @@ body > .content p {
   user-select: none;
 }
 
+.bio .company-container iframe {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: auto auto 15px auto !important;
+/*   margin: auto; */
+  border-radius: 15px !important;
+  position: relative;
+}
+
 .width-longer .bio .company-container img.logo.square {
 /*   display: none; */
 }
@@ -172,7 +181,7 @@ body > .content p {
 }
 
 .the-goodtime-plaza .social-media-profiles {
-  background: #007d15;
+  background: #ddc39e;
 }
 
 .tes-247 .social-media-profiles {
