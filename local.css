@@ -19,7 +19,8 @@ body {
   font-family: Arial;
   display: flex;
   flex-direction: column;
-  background-image: linear-gradient(#000000, #7b7b7b);
+/*   background-image: linear-gradient(#000000, #7b7b7b); */
+  background: #101010;
 }
 
 body > .header {
