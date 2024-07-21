@@ -54,6 +54,7 @@ body > .content .bio {
 body > .content p {
   line-height: 1.2;
   user-select: none;
+  color: #fff;
 }
 
 .width-longer .content p {
